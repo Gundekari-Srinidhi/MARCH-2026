@@ -48,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
