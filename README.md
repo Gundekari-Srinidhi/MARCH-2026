@@ -55,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1757-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1582-special-positions-in-a-binary-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
