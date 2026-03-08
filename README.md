@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0739-daily-temperatures) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Matrix
 |  |
@@ -81,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
