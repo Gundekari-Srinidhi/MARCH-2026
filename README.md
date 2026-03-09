@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0739-daily-temperatures) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Matrix
 |  |
 | ------- |
@@ -105,4 +106,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0338-counting-bits) |
+## Two Pointers
+|  |
+| ------- |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/2300-successful-pairs-of-spells-and-potions) |
+## Binary Search
+|  |
+| ------- |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/2300-successful-pairs-of-spells-and-potions) |
+## Sorting
+|  |
+| ------- |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/2300-successful-pairs-of-spells-and-potions) |
 <!---LeetCode Topics End-->
