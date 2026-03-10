@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0649-dota2-senate) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## Recursion
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0374-guess-number-higher-or-lower) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
