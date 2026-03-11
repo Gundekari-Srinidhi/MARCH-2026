@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0338-counting-bits) |
+| [1009-complement-of-base-10-integer](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1009-complement-of-base-10-integer) |
 ## Two Pointers
 |  |
 | ------- |
