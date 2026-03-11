@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0933-number-of-recent-calls) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
 |  |
 | ------- |
@@ -133,4 +134,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0649-dota2-senate) |
+## Hash Table
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/2336-smallest-number-in-infinite-set) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/2336-smallest-number-in-infinite-set) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
