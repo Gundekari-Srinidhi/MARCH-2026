@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0208-implement-trie-prefix-tree) |
 | [0649-dota2-senate](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0649-dota2-senate) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0127-word-ladder) |
 | [0210-course-schedule-ii](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0210-course-schedule-ii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0208-implement-trie-prefix-tree) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/2336-smallest-number-in-infinite-set) |
 ## Heap (Priority Queue)
