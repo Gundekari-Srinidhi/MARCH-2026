@@ -1,12 +1,20 @@
 class Solution:
     def findTheDifference(self, s: str, t: str) -> str:
-        l=list(s)
-        n=len(t)
-        for i in range(n):
-            if t[i] not in l:
-                return t[i]
+        d={}
+        for i in s:
+            if i in d:
+                d[i]+=1
             else:
-                l.remove(t[i])
+                d[i]=1
+        for i in t:
+            if i in d:
+                d[i]+=1
+            else:
+                d[i]=1
+        for k,v in d.items():
+            if v%2==1:
+                return k
+
             
             
         
