@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0208-implement-trie-prefix-tree) |
+| [0389-find-the-difference](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0389-find-the-difference) |
 | [0649-dota2-senate](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0649-dota2-senate) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0389-find-the-difference) |
 | [1009-complement-of-base-10-integer](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1009-complement-of-base-10-integer) |
 ## Two Pointers
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0389-find-the-difference) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Interactive
 |  |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0208-implement-trie-prefix-tree) |
+| [0389-find-the-difference](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0389-find-the-difference) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/2336-smallest-number-in-infinite-set) |
 ## Heap (Priority Queue)
 |  |
