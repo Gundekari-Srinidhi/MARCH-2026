@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0090-subsets-ii) |
 | [0739-daily-temperatures](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0739-daily-temperatures) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0090-subsets-ii) |
 | [0338-counting-bits](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0389-find-the-difference) |
 | [1009-complement-of-base-10-integer](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1009-complement-of-base-10-integer) |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
