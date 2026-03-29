@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0739-daily-temperatures) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Matrix
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0389-find-the-difference) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Interactive
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Counting
 |  |
 | ------- |
