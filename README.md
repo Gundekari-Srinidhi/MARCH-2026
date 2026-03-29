@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0342-power-of-four) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Simulation
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0062-unique-paths) |
+| [0342-power-of-four](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0342-power-of-four) |
 ## Combinatorics
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0090-subsets-ii) |
 | [0338-counting-bits](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0389-find-the-difference) |
 | [1009-complement-of-base-10-integer](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1009-complement-of-base-10-integer) |
 ## Two Pointers
