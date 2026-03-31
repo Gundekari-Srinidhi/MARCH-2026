@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0872-leaf-similar-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0841-keys-and-rooms) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Binary Tree
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0841-keys-and-rooms) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Topological Sort
 |  |
 | ------- |
