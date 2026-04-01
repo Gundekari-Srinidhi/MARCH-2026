@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0208-implement-trie-prefix-tree) |
 | [0389-find-the-difference](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0389-find-the-difference) |
+| [0399-evaluate-division](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0399-evaluate-division) |
 | [0649-dota2-senate](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0649-dota2-senate) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0210-course-schedule-ii](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0841-keys-and-rooms) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0127-word-ladder) |
 | [0210-course-schedule-ii](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0841-keys-and-rooms) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0090-subsets-ii) |
+| [0399-evaluate-division](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0399-evaluate-division) |
 | [0739-daily-temperatures](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0739-daily-temperatures) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -205,5 +210,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0547-number-of-provinces) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Gundekari-Srinidhi/MARCH-2026/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
